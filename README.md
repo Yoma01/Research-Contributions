@@ -7,7 +7,10 @@
   -Conducted counterfactual fine-tuning on Llama 3.2 to evaluate the persistence of biases in fine-tuned language model. 
 # Fine-Tuning Multimodal Foundation Models for Dementia Diagnosis
   -Evaluated foundation models for dementia classification, focusing on performance and resource efficiency compared to specialized models.
+  
   -Fine-tuned the LLaVA model with MRI data and benchmarked its performance against the baseline model - EfficientNet 
+  
   -Determined the minimum training data required for the LLaVA model to achieve results comparable to the full dataset and baseline model.
+  
   -Validated model robustness and generalizability using unseen datasets (ADNI) and cross-evaluations between OASIS and ADNI datasets.
 
