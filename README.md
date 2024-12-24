@@ -7,7 +7,8 @@
   -Investigated covert bias in these models by analyzing numerical values assigned to speaker characteristics (Intelligence, kindness, sophistication, aggression, emotional,      laziness, factual) through direct and indirect comparison of AAVE and SAE prompts
   
   -Conducted counterfactual fine-tuning on Llama 3.2 to evaluate the persistence of biases in fine-tuned language model. 
-# Fine-Tuning Multimodal Foundation Models for Dementia [Fine-Tuning Multimodal Foundation Models for Dementia Diagnosis.pdf](https://github.com/user-attachments/files/18235249/Fine-Tuning.Multimodal.Foundation.Models.for.Dementia.Diagnosis.pdf)
+# Fine-Tuning Multimodal Foundation Models for Dementia 
+[Fine-Tuning Multimodal Foundation Models for Dementia Diagnosis.pdf](https://github.com/user-attachments/files/18235249/Fine-Tuning.Multimodal.Foundation.Models.for.Dementia.Diagnosis.pdf)
  Diagnosis
   -Evaluated foundation models for dementia classification, focusing on performance and resource efficiency compared to specialized models.
   
