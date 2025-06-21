@@ -18,3 +18,13 @@
   
   -Validated model robustness and generalizability using unseen datasets (ADNI) and cross-evaluations between OASIS and ADNI datasets.
 
+  # Exploration of LAyer-SElective Rank reduction
+  
+  -Analyzed LASER’s impact across transformer layers to identify optimal noise-reduction points for specific tasks.
+  
+  -Compared lower vs. higher-order SVD components using TF-IDF and named recognition to assess semantic coherence and prediction specificity.
+  
+  -Explored heuristics like nuclear norm and effective rank to identify optimal LASER layer and developed a shared subspace rank metric for         reliable layer selection.
+
+  
+
